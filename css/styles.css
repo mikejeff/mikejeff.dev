@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+@font-face {
+  font-family: system;
+  font-style: normal;
+  font-weight: 300;
+  src: local(".SFNSText-Light"), local(".HelveticaNeueDeskInterface-Light"), local(".LucidaGrandeUI"), local("Ubuntu Light"), local("Segoe UI Light"), local("Roboto-Light"), local("DroidSans"), local("Tahoma");
+}
+
+html {
+	color: #353748;
+	background-color: #f7f7f7;
+	font-family: "system";
+}
+body>* {
+	max-width: 600px;
+	margin: 0 auto;
+}
+
+h1,h2,h3,h4,h5,h6{
+	font-family: 'Poppins';
+	margin: 0.5em 0;
+}
+
+p {
+	line-height: 1.4em;
+}
+
+#copyright{
+	text-align: center;
+	font-size: smaller;
+}
+#site-nav {
+	width: 100%;
+	max-width: 600px;
+}
+
+#site-nav ul {
+	padding: 0;
+}
+
+#site-nav ul li {
+	display: inline-block;
+	list-style-type: none;
+	margin: 0 10px;
+}
+
+#site-nav ul li:nth-child(1) {
+	margin-left: 0;
+}
+
+@media (prefers-color-scheme: dark) {
+	html {
+		background-color: hsl(0, 0%, 11%);
+		color: hsl(0, 0%, 93.3%);
+
+	}
+
+	a {
+		color: HSL(200, 100%, 66.7%);
+	}
+
+	a:visited {
+		color: HSL(271.3, 68.5%, 72.4%);
+	}
+}
