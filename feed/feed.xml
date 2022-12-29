@@ -1,66 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<title>Your Blog Name</title>
-	<subtitle>I am writing about my experiences as a naval navel-gazer.</subtitle>
+	<title>Mike Jeff of the Web</title>
+	<subtitle>I fought the web and the web won. Every day. I write about it sometimes.</subtitle>
 	
-	<link href="https://example.com/feed/feed.xml" rel="self"/>
-	<link href="https://example.com/"/>
-	<updated>2018-09-30T00:00:00Z</updated>
-	<id>https://example.com/</id>
+	<link href="https://mikejeff.dev/feed/feed.xml" rel="self"/>
+	<link href="https://mikejeff.dev"/>
+	<updated>2022-11-02T00:00:00Z</updated>
+	<id>https://mikejeff.dev</id>
 	<author>
-		<name>Your Name Here</name>
-		<email>youremailaddress@example.com</email>
+		<name>Mike Jeffery</name>
+		<email>mikejeff.dev@gmail.com</email>
 	</author>
 	
 	<entry>
-		<title>This is my fourth post.</title>
-		<link href="https://example.com/posts/fourthpost/"/>
-		<updated>2018-09-30T00:00:00Z</updated>
-		<id>https://example.com/posts/fourthpost/</id>
-		<content type="html">&lt;p&gt;Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.&lt;/p&gt;
-&lt;p&gt;Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.&lt;/p&gt;
-&lt;h2 id=&quot;section-header&quot; tabindex=&quot;-1&quot;&gt;Section Header &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/posts/fourthpost/#section-header&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.&lt;/p&gt;
+		<title>Vibe Check №2</title>
+		<link href="https://mikejeff.dev/posts/vibe-check_20221102/"/>
+		<updated>2022-11-02T00:00:00Z</updated>
+		<id>https://mikejeff.dev/posts/vibe-check_20221102/</id>
+		<content type="html">&lt;h1 id=&quot;vibe-check-2&quot; tabindex=&quot;-1&quot;&gt;Vibe Check №2 &lt;a class=&quot;direct-link&quot; href=&quot;https://mikejeff.dev/posts/vibe-check_20221102/#vibe-check-2&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;I was shooting for a once a month update with these Vibe Checks, but I failed in the second month. Josh Scott of JHS pedals said in a live stream that there’s not enough failing in public because social media is all about showing a curated version of yourself. I agree, though I do see people documenting their struggles more now than ever before. It&#39;s hard to see much of it on my Twitter and Instagram feeds, but it&#39;s helpful and inspirational to watch people struggle and overcome massive challenges. Fortunately, the complexities of my life are trivial by comparison. I need to stop binge watching “Dahmer” and start dedicating more time to writing and creating.&lt;/p&gt;
+&lt;p&gt;Halloween was this week! We went trick or treating with my youngest son, who dressed as “Spin” aka “Spiderman: Miles Morales”, and we had fun! Thankfully, we have a nice neighborhood for trick or treating, and our neighbors go all out. We even got a pretty good scare from a guy in an 8 foot tall ghoul costume standing silently by a bowl of candy. I know what I’m doing next year!&lt;/p&gt;
+&lt;h2 id=&quot;watched&quot; tabindex=&quot;-1&quot;&gt;Watched &lt;a class=&quot;direct-link&quot; href=&quot;https://mikejeff.dev/posts/vibe-check_20221102/#watched&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;These past weeks, I’ve been watching “Dahmer.” It&#39;s creepy and messed up in all sorts of ways. I appreciate how they’ve broken the story up and used different characters’ points of view  to tell the story. I feel a sense of guilt watching it because it’s a story about the killing of 18 people. It’s strange to say the least that someone thought to make entertainment out of this.&lt;/p&gt;
+&lt;p&gt;Tales of the Jedi dropped last week and I managed to binge it. I Loved it! Dave Filioni is an amazing creator. I am always blown away by his creativity, and story telling as he and the rest of the Star Wars team continue to flesh out the Galaxy Far, Far Away. As for this series, I&#39;m surpirsed to find that I enjoyed Dooku as a sympathetic character. We actually get to see how and why he becomes a Sith apprentice, and it makes some sense. Now, I need to google why he&#39;s called “Count Dooku” in Episode II! &lt;em&gt;I googled it: My conclusion is that the original actor, Christopher Lee, was well known for playing Count Dracula before working on Star Wars. Also, “Darth Dooku” would sound silly.&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&quot;read&quot; tabindex=&quot;-1&quot;&gt;Read &lt;a class=&quot;direct-link&quot; href=&quot;https://mikejeff.dev/posts/vibe-check_20221102/#read&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;I need to read more, and keep track of it. I have two Javascript books on my desk, but they haven’t seen any action in a while. I’ve wanted to get some books on UX, I might pull the trigger on one or two soon.&lt;/p&gt;
+&lt;h2 id=&quot;music&quot; tabindex=&quot;-1&quot;&gt;Music &lt;a class=&quot;direct-link&quot; href=&quot;https://mikejeff.dev/posts/vibe-check_20221102/#music&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;I’ve gotten way into The Bouncing Souls, so I bought their album from 2001, How I Spent My Summer Vacation and had it on repeat for over a week. I am truly a sucker for anthemic Punk Rock!&lt;/p&gt;
+&lt;p&gt;I took a stab at learning the guitar solo from “Back in Black” by AC/DC. I got through the first five phrases playing along with Marty Music &lt;em&gt;(obviously).&lt;/em&gt; I wish he was around when I was learning guitar as a kid, he is a great guitar teacher! I’m amazed at what I can play after following along with him. Practice makes perfect, kids!&lt;/p&gt;
+&lt;p&gt;That’s a wrap for now. Let me know if you saw this post, and what you thought of it — hit me up on Twitter @fellaroonie.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
-		<title>This is my third post.</title>
-		<link href="https://example.com/posts/thirdpost/"/>
-		<updated>2018-08-24T00:00:00Z</updated>
-		<id>https://example.com/posts/thirdpost/</id>
-		<content type="html">&lt;p&gt;Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.&lt;/p&gt;
-&lt;pre class=&quot;language-diff-js&quot;&gt;&lt;code class=&quot;language-diff-js&quot;&gt;// this is a command&lt;br /&gt;function myCommand() {&lt;br /&gt;&lt;span class=&quot;token inserted-sign inserted language-js&quot;&gt;&lt;span class=&quot;token prefix inserted&quot;&gt;+&lt;/span&gt;	&lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; counter &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;br /&gt;&lt;/span&gt;&lt;br /&gt;&lt;span class=&quot;token deleted-sign deleted language-js&quot;&gt;&lt;span class=&quot;token prefix deleted&quot;&gt;-&lt;/span&gt;	counter&lt;span class=&quot;token operator&quot;&gt;++&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;br /&gt;&lt;/span&gt;&lt;br /&gt;}&lt;br /&gt;&lt;br /&gt;// Test with a line break above this line.&lt;br /&gt;console.log(&#39;Test&#39;);&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.&lt;/p&gt;
-&lt;h2 id=&quot;section-header&quot; tabindex=&quot;-1&quot;&gt;Section Header &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/posts/thirdpost/#section-header&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.&lt;/p&gt;
-</content>
-	</entry>
-	
-	<entry>
-		<title>This is my second post.</title>
-		<link href="https://example.com/posts/secondpost/"/>
-		<updated>2018-07-04T00:00:00Z</updated>
-		<id>https://example.com/posts/secondpost/</id>
-		<content type="html">&lt;p&gt;Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.&lt;/p&gt;
-&lt;h2 id=&quot;section-header&quot; tabindex=&quot;-1&quot;&gt;Section Header &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/posts/secondpost/#section-header&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://example.com/posts/firstpost/&quot;&gt;First post&lt;/a&gt;
-&lt;a href=&quot;https://example.com/posts/thirdpost/&quot;&gt;Third post&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.&lt;/p&gt;
-&lt;p&gt;Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.&lt;/p&gt;
-</content>
-	</entry>
-	
-	<entry>
-		<title>This is my first post.</title>
-		<link href="https://example.com/posts/firstpost/"/>
-		<updated>2018-05-01T00:00:00Z</updated>
-		<id>https://example.com/posts/firstpost/</id>
-		<content type="html">&lt;p&gt;Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.&lt;/p&gt;
-&lt;p&gt;Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.&lt;/p&gt;
-&lt;h2 id=&quot;section-header&quot; tabindex=&quot;-1&quot;&gt;Section Header &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/posts/firstpost/#section-header&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.&lt;/p&gt;
-&lt;pre class=&quot;language-diff-js&quot;&gt;&lt;code class=&quot;language-diff-js&quot;&gt;// this is a command&lt;br /&gt;function myCommand() {&lt;br /&gt;&lt;span class=&quot;token inserted-sign inserted language-js&quot;&gt;&lt;span class=&quot;token prefix inserted&quot;&gt;+&lt;/span&gt;	&lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; counter &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;br /&gt;&lt;span class=&quot;token prefix inserted&quot;&gt;+&lt;/span&gt;	counter&lt;span class=&quot;token operator&quot;&gt;++&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;br /&gt;&lt;/span&gt;}&lt;br /&gt;&lt;br /&gt;// Test with a line break above this line.&lt;br /&gt;console.log(&#39;Test&#39;);&lt;/code&gt;&lt;/pre&gt;
+		<title>Vibe Check №1</title>
+		<link href="https://mikejeff.dev/posts/vibe-check_20220919/"/>
+		<updated>2022-09-19T00:00:00Z</updated>
+		<id>https://mikejeff.dev/posts/vibe-check_20220919/</id>
+		<content type="html">&lt;p&gt;You guys, I’m doing it &lt;em&gt;again.&lt;/em&gt; I’m re-starting the blog on a new platform with the hope that I’ll be able to stick to it now. My youngest son is a bit older now, and I’m sleeping better, and I feel as if I have a bit more free time on my hands to create something. I have always had trouble trying to laser-focus in on one project, so I’m expecting this to be a little scattershot. I’m going to embrace that.&lt;/p&gt;
+&lt;p&gt;I’m trying to become a better developer, dad, musician, and person, so expect lots of content in those areas. Also, I think in the past, I’ve tried to narrow the scope of my blog so much that it became uninteresting to me, so you can expect to see me write about other subjects as well.&lt;/p&gt;
+&lt;p&gt;First week of school: I have a quiet house again. My home “office” has no door, so it can be difficult to separate myself from whoever is home with me while I’m working. It’s a double-edged sword — it’s great that I get to spend &lt;strong&gt;tons&lt;/strong&gt; of time with my family, but there are times where I need to focus and to be honest, that’s hard to do when there’s people doing their thing nearby. I’m happy to have some structure back.&lt;/p&gt;
+&lt;p&gt;New (to me) album: Tim Timebomb and Friends. It’s probably a about a decade old at this point, but there’s a ton of tracks on this album that I had never heard before. It&#39;s kind of Rancid-esque, but also included is Tim Armstrong doing first wave ska — mellow-ish, full horn section most of the time, and lots of guest performers. It’s darn good.&lt;/p&gt;
+&lt;p&gt;I’m back on Noom after an indulgent summer (our first summer of doing our normal road trips and vacations since the Covid Pandemic hit.) I can gain weight fast, but, it comes off pretty quick too with a little discipline. Noom is great for that. Basically, it makes you log your food and drink intake and gives you a calorie allowance. It’s supposed to kind of retrain you to be able to think about your eating habits and make good food choices. It’s an effective weight loss tool, I need to be better about sustaining the good habits I’m forming.&lt;/p&gt;
+&lt;p&gt;I’m not much of a recreational reader, but I’m trying to do better because it’s such an important method of gathering information and learning. I’ve been trying to make a habit of reading at least one article each day on web development, or at least technology in general. I find myself gravitated to the &lt;a href=&quot;https://daverupert.com/&quot;&gt;personal blog of Dave Rupert&lt;/a&gt;. I have learned so much about web development from him and his podcast cohort, Chris Coyier (founder of &lt;a href=&quot;https://css-tricks.com/&quot;&gt;CSS Tricks&lt;/a&gt; and &lt;a href=&quot;https://codepen.io/&quot;&gt;Code Pen&lt;/a&gt;) over the years. If you’re looking for some inspiration, or to learn the latest in web development, these guys deliver, and they seem like good people to boot. At this moment, I am emulating blogging techniques I learned about on his site.&lt;/p&gt;
+&lt;p&gt;That’s a wrap for now. Let me know if you saw this post, and what you thought of it — hit me up on Twitter @fellaroonie.&lt;/p&gt;
 </content>
 	</entry>
 </feed>
