@@ -1,13 +1,11 @@
 ---
 title: Vibe Check №2
-description: What and how I've been doing.
+description: What and how I've been doing | November 2022.
 date: 2022-11-02
 tags:
   - Vibe Check
 layout: layouts/post.njk
 ---
-# Vibe Check №2
-
 I was shooting for a once a month update with these Vibe Checks, but I failed in the second month. Josh Scott of JHS pedals said in a live stream that there’s not enough failing in public because social media is all about showing a curated version of yourself. I agree, though I do see people documenting their struggles more now than ever before. It's hard to see much of it on my Twitter and Instagram feeds, but it's helpful and inspirational to watch people struggle and overcome massive challenges. Fortunately, the complexities of my life are trivial by comparison. I need to stop binge watching “Dahmer” and start dedicating more time to writing and creating. 
 
 Halloween was this week! We went trick or treating with my youngest son, who dressed as “Spin” aka “Spiderman: Miles Morales”, and we had fun! Thankfully, we have a nice neighborhood for trick or treating, and our neighbors go all out. We even got a pretty good scare from a guy in an 8 foot tall ghoul costume standing silently by a bowl of candy. I know what I’m doing next year! 
