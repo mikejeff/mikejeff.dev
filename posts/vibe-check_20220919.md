@@ -1,6 +1,6 @@
 ---
 title: Vibe Check №1
-description: This is a post on My Blog about win-win survival strategies.
+description: What and how I've been doing | September 2022.
 date: 2022-09-19
 tags:
   - Vibe Check
