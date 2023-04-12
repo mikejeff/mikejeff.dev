@@ -9,25 +9,33 @@
     {#- Uncomment this if you’d like folks to know that you used Eleventy to build your site!  #}
     {#- <meta name="generator" content="{{ eleventy.generator }}"> #}
 
-    <link rel="stylesheet" href="{{ '/css/index.css' | url }}">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500;900&display=swap" rel="stylesheet"> 
+
+    <link rel="stylesheet" href="{{ '/css/base.css' | url }}">
+    <link rel="stylesheet" href="{{ '/css/helpers.css' | url }}">
+    {# <link rel="stylesheet" href="{{ '/css/index.css' | url }}">
     <link rel="stylesheet" href="{{ '/css/prism-base16-monokai.dark.css' | url }}">
-    <link rel="stylesheet" href="{{ '/css/prism-diff.css' | url }}">
+    <link rel="stylesheet" href="{{ '/css/prism-diff.css' | url }}"> #}
     <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
     <link rel="alternate" href="{{ metadata.jsonfeed.path | url }}" type="application/json" title="{{ metadata.title }}">
   </head>
   <body>
     <header>
-      <h1 class="home"><a href="{{ '/' | url }}">{{ metadata.title }}</a></h1>
+      <div id="site-title" class="home"><a href="{{ '/' | url }}">{{ metadata.title }}</a></div>
 
       {#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
-      <ul class="nav">
+		<nav>
+			<ul class="nav cluster">
       {%- for entry in collections.all | eleventyNavigation %}
         <li class="nav-item{% if entry.url == page.url %} nav-item-active{% endif %}"><a href="{{ entry.url | url }}">{{ entry.title }}</a></li>
       {%- endfor %}
       </ul>
+		</nav>
     </header>
 
-    <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
+    <main{% if templateClass %} class="{{ templateClass }} stack center"{% endif %}>
 
       <!-- Delete this message -->
       {# <div class="infobox">
